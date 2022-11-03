@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
+    font-size: 11pt; /* Размер основного шрифта в пунктах  */
+    background-color: #141414; /* Цвет фона веб-страницы */
+    color: #fff; /* Цвет основного текста */ 
+    text-align: center; 
+  }
+  h1 {
+    font-size: 40pt; /* Размер шрифта в пунктах */
+     font-family: Arial, Verdana, sans-serif; /* Семейство шрифтов */
+  }
+  p {
+    font-family: Arial;
+    font-size: 24pt;
+  }
+  
+  a {
+    color: #fff; /* Цвет основного текста */ 
+    font-size: 22pt;
+  }
+  a:hover {
+    color: #6CC312; /* Цвет основного текста */ 
+  }
+  hax {
+      Font-size: 16pt;
+  }
+  l {
+      Font-size: 4pt;
+  }
